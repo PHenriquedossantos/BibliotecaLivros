@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\banco"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
